@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196859335344",
+    "project_id": "testing-cli-992a2",
+    "storage_bucket": "testing-cli-992a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196859335344:android:913fc32a1c6016834f2175",
+        "android_client_info": {
+          "package_name": "com.abd.testing_cli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQcbpw_jyJzU0-cLBTyy_l1aM5qpDN7n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
